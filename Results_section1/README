@@ -11,4 +11,11 @@ This folder contains:
     (assuming ADMIXTOOLS format with the value of f3 in the 4th column, the 
     outgroup in the 3rd column, and population pairs in the 1st and 2nd columns). 
     See the first section of the script for details on dependencies. 
+
+3) Compressed folder combined_find-graphs_results.zip: 
+
+    which contains the full set of results from ADMIXTOOLS2's find_graphs (computations directory); 
+    along with results_summary.txt, recording score, worst residual and hash for each winning model, 
+    for each iteration; and unique_results.txt, which provides the same information but keeping only
+    one representative per unique topology hash. 
     

@@ -1,0 +1,2 @@
+# aDNA_CSC
+Custom script and accompanying materials for manuscript "Ancient genomes from the Central Southern Cone document milennia-long continuity and interactions of an unknown South American lineage

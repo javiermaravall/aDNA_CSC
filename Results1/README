@@ -1,0 +1,14 @@
+This folder contains: 
+
+1) Script test_Newick_from_f4s.py: 
+
+    which uses a table of f4 statistics to test a phylogenetic tree in Newick format. 
+    See the first section of the script for all details on necessary input and dependencies. 
+    
+2) Script compute_NJ_tree.R: 
+
+    which computes a neighbor-joining tree from a table of outgroup f3 statistics
+    (assuming ADMIXTOOLS format with the value of f3 in the 4th column, the 
+    outgroup in the 3rd column, and population pairs in the 1st and 2nd columns). 
+    See the first section of the script for details on dependencies. 
+    

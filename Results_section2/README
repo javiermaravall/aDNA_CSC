@@ -14,8 +14,9 @@ This folder contains:
 
 3) Compressed folder combined_find-graphs_results.zip: 
 
-    which contains the full set of results from ADMIXTOOLS2's find_graphs (computations directory); 
-    along with results_summary.txt, recording score, worst residual and hash for each winning model, 
-    for each iteration; and unique_results.txt, which provides the same information but keeping only
+    which contains the full set of results from ADMIXTOOLS2's find_graphs ('computations' directory),
+    as well as associated scripts.
+    The 'results_summary.txt' file records the score, worst residual and hash for each winning model, 
+    for each iteration; and the 'unique_results.txt' file provides the same information but keeping only
     one representative per unique topology hash. 
     

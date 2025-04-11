@@ -1,16 +1,20 @@
-This folder contains raw ADMIXTURE results: 
+This folder contains:
 
-1) ancient_SAs.zip: 
+(a) Raw ADMIXTURE results: 
 
-    contains results when using only ancient South American individuals as input ('Input_individuals.fam').
+    1) ancient_SAs.zip: 
 
-    'CVerrors.txt' and 'loglikelihoods.txt' record cross-validation errors and logLikelihoods for K ancestry components assumed and iteration i. 
-    Folder 'runs' contains 'r_{K}_{i}' files, recording by-individual output for K ancestry components assumed and iteration i.
+        contains results when using only ancient South American individuals as input ('Input_individuals.fam').
     
-2) ancients_and_moderns_SA_no-Karitiana_no-Surui.zip: 
+        'CVerrors.txt' and 'loglikelihoods.txt' record cross-validation errors and logLikelihoods for K ancestry components assumed and iteration i. 
+        Folder 'runs' contains 'r_{K}_{i}' files, recording by-individual output for K ancestry components assumed and iteration i.
+    
+    2) ancients_and_moderns_SA_no-Karitiana_no-Surui.zip: 
+    
+        contains results when using ancient and modern (Reich et al. 2012, Nature) South American individuals as input ('Input_individuals.fam'). 
+        The Karitiana and Surui populations were excluded, because they are known to be highly drifted and thus could bias ADMIXTURE results (Lawson et al. 2018, Nature Communications).
+    
+        'CVerrors.txt' and 'loglikelihoods.txt' record cross-validation errors and logLikelihoods for K ancestry components assumed and iteration i. 
+        Folder 'runs' contains 'r_{K}_{i}' files, recording by-individual output for K ancestry components assumed and iteration i.
 
-    contains results when using ancient and modern (Reich et al. 2012, Nature) South American individuals as input ('Input_individuals.fam'). 
-    The Karitiana and Surui populations were excluded, because they are known to be highly drifted and thus could bias ADMIXTURE results (Lawson et al. 2018, Nature Communications).
-
-    'CVerrors.txt' and 'loglikelihoods.txt' record cross-validation errors and logLikelihoods for K ancestry components assumed and iteration i. 
-    Folder 'runs' contains 'r_{K}_{i}' files, recording by-individual output for K ancestry components assumed and iteration i.
+(b) A custom script to co

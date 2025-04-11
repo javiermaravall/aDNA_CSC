@@ -17,4 +17,4 @@ This folder contains:
         'CVerrors.txt' and 'loglikelihoods.txt' record cross-validation errors and logLikelihoods for K ancestry components assumed and iteration i. 
         Folder 'runs' contains 'r_{K}_{i}' files, recording by-individual output for K ancestry components assumed and iteration i.
 
-(b) A custom script to co
+(b) A custom script 'f4_BY_correction.R' to correct f4-statistics Z-scores from ADMIXTOOLS using the Benjamini-Yekutieli procedure.

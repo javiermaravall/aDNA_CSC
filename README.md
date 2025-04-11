@@ -3,6 +3,6 @@ Custom scripts and accompanying materials for manuscript "Ancient genomes from t
 
 Javier Maravall-López
 
-Department of Human Evolutionary Biology, Harvard University, Cambridge, Massachusetts, USA22
-Department of Epidemiology, Harvard School of Public Health, Boston, Massachusetts, USA23
+Department of Human Evolutionary Biology, Harvard University, Cambridge, Massachusetts, USA22 \\
+Department of Epidemiology, Harvard School of Public Health, Boston, Massachusetts, USA23 \\
 Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA

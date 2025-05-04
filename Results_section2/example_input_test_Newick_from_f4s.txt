@@ -1,0 +1,10 @@
+YRI.DG USA_Ancient_Beringian.SG Argentina_ArroyoSeco2_7700BP.AG Brazil_MG_C_LapaDoSanto_EH_HG_9600BP.AG -1.734
+YRI.DG Peru_Lauricocha_8600BP.AG Argentina_ArroyoSeco2_7700BP.AG Brazil_MG_C_LapaDoSanto_EH_HG_9600BP.AG -2.015
+YRI.DG Argentina_ArroyoSeco2_7700BP.AG Brazil_MG_C_LapaDoSanto_EH_HG_9600BP.AG Peru_Lauricocha_8600BP.AG 0.010
+YRI.DG Brazil_MG_C_LapaDoSanto_EH_HG_9600BP.AG Argentina_ArroyoSeco2_7700BP.AG Peru_Lauricocha_8600BP.AG -2.020
+YRI.DG Argentina_ArroyoSeco2_7700BP.AG Brazil_MG_C_LapaDoSanto_EH_HG_9600BP.AG Brazil_MG_C_Sumidouro_EH_HG_10100BP.SG -6.588
+YRI.DG Brazil_MG_C_Sumidouro_EH_HG_10100BP.SG Argentina_ArroyoSeco2_7700BP.AG Brazil_MG_C_LapaDoSanto_EH_HG_9600BP.AG 8.116
+YRI.DG Brazil_MG_C_LapaDoSanto_EH_HG_9600BP.AG Argentina_ArroyoSeco2_7700BP.AG Argentina_Pampas_6800BP.AG -0.681
+YRI.DG Argentina_Pampas_6800BP.AG Argentina_ArroyoSeco2_7700BP.AG Brazil_MG_C_LapaDoSanto_EH_HG_9600BP.AG -7.691
+YRI.DG Brazil_MG_C_LapaDoSanto_EH_HG_9600BP.AG Argentina_ArroyoSeco2_7700BP.AG Brazil_MG_C_Sumidouro_EH_HG_10100BP.SG 1.414
+YRI.DG Brazil_MG_C_LapaDoSanto_EH_HG_9600BP.AG Argentina_ArroyoSeco2_7700BP.AG Chile_LosRieles_5100BP.AG 1.208

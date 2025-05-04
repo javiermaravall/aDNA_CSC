@@ -1,0 +1,10 @@
+                  Argentina_Central_Hills_SierrasChicas_JesusMaria_8500BP  Argentina_Northwest_SouthernPuna_Antofagasta_PeñasdelasTrampas1.1_8800BP  YRI.DG  59.910454  1.278464   46.861    35319
+Argentina_Northwest_SouthernPuna_Antofagasta_PeñasdelasTrampas1.1_8800BP                                       Brazil_SP_S_Laranjal_MH_HG_6800BP.AG  YRI.DG  58.448008  1.165420   50.152    38351
+Argentina_Northwest_SouthernPuna_Antofagasta_PeñasdelasTrampas1.1_8800BP                                       Brazil_LocaDoSuin_Sambaqui_9100BP.AG  YRI.DG  57.282651  1.099764   52.086    42564
+Argentina_Northwest_SouthernPuna_Antofagasta_PeñasdelasTrampas1.1_8800BP                                       Brazil_Capelinha_Sambaqui_10400BP.AG  YRI.DG  59.199814  1.117598   52.971    41868
+Argentina_Northwest_SouthernPuna_Antofagasta_PeñasdelasTrampas1.1_8800BP        Argentina_Pampas_CentralPampeanDunefields_LagunadelosPampas_10000BP  YRI.DG  58.765269  0.965852   60.843    76095
+Argentina_Northwest_SouthernPuna_Antofagasta_PeñasdelasTrampas1.1_8800BP                                              Chile_PuntaSantaAna_7300BP.SG  YRI.DG  58.944195  0.940275   62.688    76399
+Argentina_Northwest_SouthernPuna_Antofagasta_PeñasdelasTrampas1.1_8800BP                                                 Argentina_Pampas_6800BP.AG  YRI.DG  58.165593  0.915044   63.566    57767
+Argentina_Northwest_SouthernPuna_Antofagasta_PeñasdelasTrampas1.1_8800BP                                                   USA_Ancient_Beringian.SG  YRI.DG  47.885984  0.752358   63.648    98516
+Argentina_Northwest_SouthernPuna_Antofagasta_PeñasdelasTrampas1.1_8800BP                                                    USA_Anzick_realigned.SG  YRI.DG  55.715979  0.862271   64.615    98415
+Argentina_Northwest_SouthernPuna_Antofagasta_PeñasdelasTrampas1.1_8800BP                                                   Peru_Cuncaicha_9000BP.AG  YRI.DG  57.680041  0.875932   65.850    80134

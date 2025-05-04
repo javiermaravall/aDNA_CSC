@@ -1,11 +1,11 @@
 This folder contains: 
 
-1) Script test_Newick_from_f4s.py: 
+1) Script test_Newick_from_f4s.py with example_input: 
 
     which uses a table of f4 statistics to test a phylogenetic tree in Newick format. 
     See the first section of the script for all details on necessary input and dependencies. 
     
-2) Script compute_NJ_tree.R: 
+2) Script compute_NJ_tree.R with example_input: 
 
     which computes a neighbor-joining tree from a table of outgroup f3 statistics
     (assuming ADMIXTOOLS format with the value of f3 in the 4th column, the 
@@ -18,5 +18,5 @@ This folder contains:
     as well as associated scripts.
     The 'results_summary.txt' file records the score, worst residual and hash for each winning model, 
     for each iteration; and the 'unique_results.txt' file provides the same information but keeping only
-    one representative per unique topology hash. 
+    one representative row per unique topology hash. 
     
